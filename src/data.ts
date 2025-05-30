@@ -1,0 +1,28 @@
+export const data = {
+  memorySize: 512,
+  operatingSystems: [
+    { name: "Windows 10", size: 100 },
+    { name: "Windows XP", size: 100 },
+    { name: "Ubuntu 22.04", size: 120 },
+    { name: "Debian 12", size: 110 },
+    { name: "Fedora 39", size: 130 },
+    { name: "Arch Linux", size: 80 },
+    { name: "macOS Ventura", size: 160 },
+    { name: "FreeBSD", size: 90 },
+    { name: "Kali Linux", size: 140 },
+    { name: "Linux Mint", size: 100 },
+  ],
+  processes: [
+    { name: "WhatsApp", size: 50 },
+    { name: "Chrome", size: 120 },
+    { name: "Visual Studio Code", size: 70 },
+    { name: "Photoshop", size: 90 },
+    { name: "Spotify", size: 40 },
+    { name: "Steam", size: 100 },
+    { name: "Python Script", size: 30 },
+    { name: "LibreOffice Writer", size: 45 },
+    { name: "Slack", size: 60 },
+    { name: "Docker", size: 80 },
+    { name: "Notepad", size: 10 },
+  ],
+};
